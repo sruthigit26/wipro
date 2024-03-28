@@ -1,0 +1,48 @@
+/*
+
+demo of nested if else sts
+
+
+sy:
+	if(cond1)
+	{
+		if(cond2)
+		{
+			if(cond3)
+			{
+				st3
+			}
+			st2
+		}
+		else
+		{
+			if(cond4)
+			{
+				st4
+			}
+			st5
+		}
+	}
+	else
+	{
+		if(cond5)
+		{
+			st5
+		}
+		else if(cond6)
+		{
+			st6
+		}
+		else if(cond7)
+		{
+			st7
+		}
+		else
+		{
+			st8
+		}
+		st9
+	}
+
+
+*/
